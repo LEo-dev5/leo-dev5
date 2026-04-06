@@ -2,9 +2,8 @@
 ![header](https://capsule-render.vercel.app/render?type=terminal&color=000000&text=USER_ID@DEVELOPER:~/HOME&fontSize=20)
 
 ### 📟 System Information
-* **Role**: Computer Science Student & Automation System Developer
+* **Role**: Automation System Developer
 * **Status**: Learning C++ for Defense Industry & Robotics 🚀
-* **Focus**: Information Security, Quantitative Programming, OSINT Project
 
 ---
 
