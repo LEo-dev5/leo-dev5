@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**LEo-dev5/leo-dev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/render?type=terminal&color=000000&text=USER_ID@DEVELOPER:~/HOME&fontSize=20)
 
-Here are some ideas to get you started:
+### 📟 System Information
+* **Role**: Computer Science Student & Automation System Developer
+* **Status**: Learning C++ for Defense Industry & Robotics 🚀
+* **Focus**: Information Security, Quantitative Programming, OSINT Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack (Badges)
+<div align=left>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+</div>
+
+---
+
+### 📊 GitHub Stats (Terminal Theme)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인의아이디&show_icons=true&theme=terminal&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의아이디&layout=compact&theme=terminal&hide_border=true" alt="Top Languages" />
+</div>
