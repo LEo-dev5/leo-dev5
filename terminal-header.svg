@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="40" viewBox="0 0 700 40">
+  <rect width="700" height="40" rx="10" ry="10" fill="#3c3c3c"/>
+  <!-- Traffic lights -->
+  <circle cx="22" cy="20" r="7" fill="#FF5F56"/>
+  <circle cx="44" cy="20" r="7" fill="#FFBD2E"/>
+  <circle cx="66" cy="20" r="7" fill="#27C93F"/>
+  <!-- Title -->
+  <text x="350" y="26" text-anchor="middle" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', sans-serif" font-size="13" fill="#c8c8c8">zsh  —  leo-dev5  —  80×24</text>
+</svg>

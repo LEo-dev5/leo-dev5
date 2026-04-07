@@ -1,14 +1,6 @@
 <div align="center">
 
-<!-- macOS Terminal Window Chrome -->
-<table>
-<tr>
-<td align="left" width="80">🔴 🟡 🟢</td>
-<td align="center"><b>zsh &nbsp;—&nbsp; leo-dev5 &nbsp;—&nbsp; 80×24</b></td>
-<td width="80"></td>
-</tr>
-</table>
-
+<img src="terminal-header.svg" width="700" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFFFFF&background=1E1E1E&center=true&vCenter=true&width=700&height=80&lines=leo%40MacBook-Pro+~+%25+whoami;LEo-dev5;leo%40MacBook-Pro+~+%25+cat+about.txt;Automation+System+Developer+%7C+C%2B%2B+%7C+Robotics;leo%40MacBook-Pro+~+%25+_" alt="Typing SVG" />
 
 </div>
