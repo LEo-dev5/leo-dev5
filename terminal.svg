@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="390" viewBox="0 0 700 390">
+  <style>
+    .mono { font-family: 'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace; font-size: 13.5px; }
+
+    /* Line-by-line appearance */
+    .l { opacity: 0; animation-fill-mode: forwards; animation-name: show; animation-duration: 0.12s; animation-timing-function: ease-in; }
+    .l1  { animation-delay: 0.4s; }
+    .l2  { animation-delay: 0.8s; }
+    .l3  { animation-delay: 1.4s; }
+    .l4  { animation-delay: 1.8s; }
+    .l5  { animation-delay: 2.1s; }
+    .l6  { animation-delay: 2.4s; }
+    .l7  { animation-delay: 2.7s; }
+    .l8  { animation-delay: 3.3s; }
+    .l9  { animation-delay: 3.7s; }
+    .l10 { animation-delay: 4.3s; }
+    .l11 { animation-delay: 4.7s; }
+    .l12 { animation-delay: 5.0s; }
+    .l13 { animation-delay: 5.3s; }
+    .l14 { animation-delay: 5.6s; }
+    .l15 { animation-delay: 6.0s; }
+
+    @keyframes show { to { opacity: 1; } }
+
+    /* Colors */
+    .g   { fill: #27C93F; }
+    .tl  { fill: #CCCCCC; }
+    .b   { fill: #6FB3D2; }
+    .w   { fill: #FFFFFF; }
+    .out { fill: #A8B2C1; }
+    .key { fill: #E5C07B; }
+    .val { fill: #98C379; }
+    .dim { fill: #5C6370; }
+  </style>
+
+  <!-- Window background -->
+  <rect width="700" height="390" rx="12" fill="#1E1E1E"/>
+
+  <!-- Title bar -->
+  <rect width="700" height="42" rx="12" fill="#323232"/>
+  <rect y="28" width="700" height="14" fill="#323232"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="21" r="7" fill="#FF5F56"/>
+  <circle cx="44" cy="21" r="7" fill="#FFBD2E"/>
+  <circle cx="66" cy="21" r="7" fill="#27C93F"/>
+
+  <!-- Window title -->
+  <text x="350" y="27" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif"
+    font-size="13" fill="#C0C0C0">zsh  —  leo-dev5  —  80×24</text>
+
+  <!-- Separator -->
+  <line x1="0" y1="42" x2="700" y2="42" stroke="#404040" stroke-width="0.5"/>
+
+  <!-- l1: whoami -->
+  <text class="mono l l1" x="20" y="70">
+    <tspan class="g">leo@MacBook-Pro</tspan><tspan class="tl"> ~ </tspan><tspan class="b">%</tspan><tspan class="w"> whoami</tspan>
+  </text>
+
+  <!-- l2: whoami output -->
+  <text class="mono out l l2" x="20" y="90">LEo-dev5</text>
+
+  <!-- l3: cat about.txt -->
+  <text class="mono l l3" x="20" y="117">
+    <tspan class="g">leo@MacBook-Pro</tspan><tspan class="tl"> ~ </tspan><tspan class="b">%</tspan><tspan class="w"> cat about.txt</tspan>
+  </text>
+
+  <!-- about output -->
+  <text class="mono l l4" x="20" y="137"><tspan class="key">  Role   </tspan><tspan class="out">:  Automation System Developer</tspan></text>
+  <text class="mono l l5" x="20" y="156"><tspan class="key">  Focus  </tspan><tspan class="out">:  C++ · Defense Industry · Robotics</tspan></text>
+  <text class="mono l l6" x="20" y="175"><tspan class="key">  Status </tspan><tspan class="out">:  Active | Learning | Building</tspan></text>
+  <text class="mono l l7" x="20" y="194"><tspan class="key">  Shell  </tspan><tspan class="out">:  python3  /  g++  /  bash</tspan></text>
+
+  <!-- l8: brew list -->
+  <text class="mono l l8" x="20" y="221">
+    <tspan class="g">leo@MacBook-Pro</tspan><tspan class="tl"> ~ </tspan><tspan class="b">%</tspan><tspan class="w"> brew list</tspan>
+  </text>
+  <text class="mono out l l9" x="20" y="241">  C++  ·  Python  ·  FastAPI  ·  Linux  ·  Raspberry Pi  ·  Arduino</text>
+
+  <!-- l10: cat mission.txt -->
+  <text class="mono l l10" x="20" y="268">
+    <tspan class="g">leo@MacBook-Pro</tspan><tspan class="tl"> ~ </tspan><tspan class="b">%</tspan><tspan class="w"> cat mission.txt</tspan>
+  </text>
+
+  <!-- Mission box -->
+  <rect class="l l11" x="20" y="278" width="655" height="74" rx="5" fill="#252525" stroke="#4A4A4A" stroke-width="1"/>
+  <text class="mono l l12" x="36" y="298"><tspan class="key">  mission  </tspan><tspan class="out">:  Studying C++ for Defense Industry &amp; Robotics</tspan></text>
+  <text class="mono l l13" x="36" y="318"><tspan class="key">  latest   </tspan><tspan class="val" id="recent-project">:  GH_RECENT_PLACEHOLDER</tspan></text>
+  <text class="mono dim l l14" x="36" y="338">  PID 1337  ·  status: running  ·  /usr/bin/keep_grinding --no-quit</text>
+
+  <!-- l15: cursor line -->
+  <text class="mono l l15" x="20" y="368">
+    <tspan class="g">leo@MacBook-Pro</tspan><tspan class="tl"> ~ </tspan><tspan class="b">%</tspan><tspan class="w"> </tspan><tspan fill="#FFFFFF">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="6.2s"/></tspan>
+  </text>
+</svg>
