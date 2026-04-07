@@ -86,7 +86,7 @@
   <!-- Mission box -->
   <rect class="l l11" x="20" y="278" width="655" height="74" rx="5" fill="#252525" stroke="#4A4A4A" stroke-width="1"/>
   <text class="mono l l12" x="36" y="298"><tspan class="key">  mission  </tspan><tspan class="out">:  Studying C++ for Defense Industry &amp; Robotics</tspan></text>
-  <text class="mono l l13" x="36" y="318"><tspan class="key">  latest   </tspan><tspan class="val" id="recent-project">:  GH_RECENT_PLACEHOLDER</tspan></text>
+  <text class="mono l l13" x="36" y="318"><tspan class="key">  latest   </tspan><tspan class="val" id="recent-project">:  no recent commits found</tspan></text>
   <text class="mono dim l l14" x="36" y="338">  PID 1337  ·  status: running  ·  /usr/bin/keep_grinding --no-quit</text>
 
   <!-- l15: cursor line -->
