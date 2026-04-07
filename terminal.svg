@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+  <!-- Main window background -->
+  <rect width="700" height="420" rx="12" fill="#1E1E1E"/>
+
+  <!-- Title bar background -->
+  <rect width="700" height="42" rx="12" fill="#3C3C3C"/>
+  <rect y="28" width="700" height="14" fill="#3C3C3C"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="21" r="7" fill="#FF5F56"/>
+  <circle cx="44" cy="21" r="7" fill="#FFBD2E"/>
+  <circle cx="66" cy="21" r="7" fill="#27C93F"/>
+
+  <!-- Window title -->
+  <text x="350" y="27" text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif"
+    font-size="13" fill="#C8C8C8">zsh  —  leo-dev5  —  80×24</text>
+
+  <!-- Separator -->
+  <line x1="0" y1="42" x2="700" y2="42" stroke="#4A4A4A" stroke-width="0.5"/>
+
+  <!-- ── whoami ── -->
+  <text x="20" y="72"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5">
+    <tspan fill="#27C93F">leo@MacBook-Pro</tspan>
+    <tspan fill="#CCCCCC"> ~ </tspan>
+    <tspan fill="#6FB3D2">%</tspan>
+    <tspan fill="#FFFFFF"> whoami</tspan>
+  </text>
+  <text x="20" y="92"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">LEo-dev5</text>
+
+  <!-- ── cat about.txt ── -->
+  <text x="20" y="122"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5">
+    <tspan fill="#27C93F">leo@MacBook-Pro</tspan>
+    <tspan fill="#CCCCCC"> ~ </tspan>
+    <tspan fill="#6FB3D2">%</tspan>
+    <tspan fill="#FFFFFF"> cat about.txt</tspan>
+  </text>
+  <text x="20" y="144"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">  Role    :  Automation System Developer</text>
+  <text x="20" y="163"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">  Focus   :  C++ · Defense Industry · Robotics</text>
+  <text x="20" y="182"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">  Status  :  Active | Learning | Building</text>
+  <text x="20" y="201"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">  Shell   :  python3 / g++ / bash</text>
+
+  <!-- ── brew list ── -->
+  <text x="20" y="231"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5">
+    <tspan fill="#27C93F">leo@MacBook-Pro</tspan>
+    <tspan fill="#CCCCCC"> ~ </tspan>
+    <tspan fill="#6FB3D2">%</tspan>
+    <tspan fill="#FFFFFF"> brew list</tspan>
+  </text>
+  <text x="20" y="251"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">  C++  ·  Python  ·  FastAPI  ·  Linux  ·  Raspberry Pi  ·  Arduino</text>
+
+  <!-- ── cat mission.txt ── -->
+  <text x="20" y="281"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5">
+    <tspan fill="#27C93F">leo@MacBook-Pro</tspan>
+    <tspan fill="#CCCCCC"> ~ </tspan>
+    <tspan fill="#6FB3D2">%</tspan>
+    <tspan fill="#FFFFFF"> cat mission.txt</tspan>
+  </text>
+
+  <!-- Mission box -->
+  <rect x="20" y="292" width="480" height="64" rx="5" fill="#252525" stroke="#4A4A4A" stroke-width="1"/>
+  <text x="36" y="312"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#A8B2C1">  Studying C++ for Defense Industry &amp; Robotics</text>
+  <text x="36" y="332"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5" fill="#6B7280">  /usr/bin/keep_grinding --no-quit --output=growth</text>
+  <text x="36" y="348"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="11" fill="#4A5568">  PID 1337 · still running...</text>
+
+  <!-- ── cursor ── -->
+  <text x="20" y="390"
+    font-family="'SF Mono', 'Fira Code', 'Monaco', 'Menlo', 'Courier New', monospace"
+    font-size="13.5">
+    <tspan fill="#27C93F">leo@MacBook-Pro</tspan>
+    <tspan fill="#CCCCCC"> ~ </tspan>
+    <tspan fill="#6FB3D2">%</tspan>
+    <tspan fill="#FFFFFF"> </tspan>
+    <tspan fill="#FFFFFF">█</tspan>
+  </text>
+</svg>
