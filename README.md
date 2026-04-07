@@ -1,22 +1,55 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=LEo-dev5@DEVELOPER:~/HOME;Starting+the+system...;Access+Granted!" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-### 📟 System Information
-* **Role**: Automation System Developer
-* **Status**: Learning C++ for Defense Industry & Robotics 🚀
+<img src="terminal-header.svg" width="700" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFFFFF&background=1E1E1E&center=true&vCenter=true&width=700&height=80&lines=leo%40MacBook-Pro+~+%25+whoami;LEo-dev5;leo%40MacBook-Pro+~+%25+cat+about.txt;Automation+System+Developer+%7C+C%2B%2B+%7C+Robotics;leo%40MacBook-Pro+~+%25+_" alt="Typing SVG" />
 
----
-
-`guest@home:~$ sudo apt-get install tech-stacks`
-
-<div align=left>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
+
+<br>
+
+```zsh
+leo@MacBook-Pro ~ % cat about.txt
+```
+
+```
+  User    :  LEo-dev5
+  Role    :  Automation System Developer
+  Focus   :  C++ · Defense Industry · Robotics
+  Status  :  Learning & Building
+  Shell   :  zsh  ›  python3  ›  g++
+```
+
+<br>
+
+```zsh
+leo@MacBook-Pro ~ % brew list
+```
+
+<div align="left">
+<img src="https://img.shields.io/badge/C++-555555?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-555555?style=flat-square&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-555555?style=flat-square&logo=arduino&logoColor=white" />
+</div>
+
+<br>
+
+```zsh
+leo@MacBook-Pro ~ % open -a "current-mission"
+```
+
+```
+  ● current-mission — running
+  ┌─────────────────────────────────────────────────┐
+  │  Studying C++ for Defense Industry & Robotics   │
+  │  /usr/bin/keep_grinding --no-quit               │
+  └─────────────────────────────────────────────────┘
+```
+
+<br>
+
+```zsh
+leo@MacBook-Pro ~ % █
+```
