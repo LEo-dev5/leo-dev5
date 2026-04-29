@@ -37,8 +37,8 @@ def fetch_latest_commit() -> str:
         return "no recent commits found"
 
     for repo in repos:
-        # Skip forks
-        if repo.get("fork"):
+        # Skip forks and private repos
+        if repo.get("fork") or repo.get("private"):
             continue
         repo_name = repo["name"]
 
